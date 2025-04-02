@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Edison 👋
 
-<!--
-**Edison-A-N/Edison-A-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Edison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edison-A-N)](https://github.com/Edison-A-N/github-readme-stats)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm passionate about technology and software development
+- 🌱 I'm always learning and exploring new technologies
+- 💻 I love coding and building interesting projects
+- 🤝 I'm open to collaborating on exciting projects
+
+## Get in Touch
+
+Feel free to reach out to me for collaborations or just a friendly chat!
