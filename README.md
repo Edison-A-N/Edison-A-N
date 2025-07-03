@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Edison-A-N&theme=tokyonight" alt="Edison's streak stats" width="80%"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Edison-A-N&theme=tokyonight" alt="Edison's streak stats" width="80%"/> -->
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Edison-A-N&theme=tokyonight&show_icons=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-A-N&layout=compact&theme=tokyonight" height="180em"/>
