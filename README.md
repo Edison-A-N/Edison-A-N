@@ -29,8 +29,8 @@
 - 🌱 I'm always learning and exploring new technologies
 - 💻 I love coding and building interesting projects
 - 🤝 I'm open to collaborating on exciting projects
-- 📫 How to reach me: [Your Email or LinkedIn]
-- ⚡ Fun fact: [Add an interesting fact about yourself]
+- 📫 How to reach me: [zhangn661@gmail.com](mailto:zhangn661@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nan-zhang-48a4631a9/)
+<!-- - ⚡ Fun fact: I love exploring new technologies and building innovative solutions -->
 
 <!-- ## 🌟 Featured Projects
 
